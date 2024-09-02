@@ -14,9 +14,29 @@ Database: https://deployed-site.whatever
 
 ## Directory Structure
 my-app/
-├─ backend/
+├─ DocEase/
+│  ├─ config/
+│  ├─ middleware/
+│  ├─ models/
+│  ├─ routes/
+│  ├─ utils/
+│  ├─ server.js
+│  ├─ socket.js
 ├─ frontend/
-│  ├─ ...
+│  ├─ src/
+|  |  |-assets
+|  |  |-context
+|  |  |-pages
+|  |  |-routes
+|  |  |-App.css
+|  |  |-App.jsx
+|  |  |-index.css
+|  |  |-main.jsx
+|  |-index.html
+|  |-eslint.config.js
+
+
+
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
