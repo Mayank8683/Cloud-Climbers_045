@@ -12,7 +12,7 @@ Frontend: https://deployed-site.whatever](https://66d587c1d92965dc325710f8--meek
 Backend: https://docease-ovq2.onrender.com
 
 
-## Directory Structure
+<pre>
 my-app/
 ├─ DocEase/
 │  ├─ config/
@@ -24,16 +24,17 @@ my-app/
 │  ├─ socket.js
 ├─ frontend/
 │  ├─ src/
-|  |  |-assets
-|  |  |-context
-|  |  |-pages
-|  |  |-routes
-|  |  |-App.css
-|  |  |-App.jsx
-|  |  |-index.css
-|  |  |-main.jsx
-|  |-index.html
-|  |-eslint.config.js
+│  │  ├─ assets
+│  │  ├─ context
+│  │  ├─ pages
+│  │  ├─ routes
+│  │  ├─ App.css
+│  │  ├─ App.jsx
+│  │  ├─ index.css
+│  │  ├─ main.jsx
+│  ├─ index.html
+│  ├─ eslint.config.js
+</pre>
 
 
 
