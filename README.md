@@ -8,9 +8,9 @@ DocEase is a powerful document management application inspired by Notion Docs. I
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
-Backend: (https://docease-ovq2.onrender.com)
-Database: https://deployed-site.whatever
+Frontend: https://deployed-site.whatever](https://66d587c1d92965dc325710f8--meek-meringue-871a76.netlify.app/
+Backend: https://docease-ovq2.onrender.com
+
 
 ## Directory Structure
 my-app/
@@ -74,7 +74,6 @@ DocEase is designed with the assumption that users need a highly customizable an
 # Example
 ```
 
-Include screenshots as necessary.
 
 ## Credentials
 Provide user credentials for autheticated pages
